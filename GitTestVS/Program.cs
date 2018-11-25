@@ -13,7 +13,7 @@ namespace GitTestVS
             // The code provided will print ‘Hello World’ to the console.
             Console.WriteLine("New string");
             
-            Console.ReadKey();
+            
             Console.ReadKey();
 
 
